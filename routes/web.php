@@ -22,5 +22,5 @@ Route::get('/home', function () {
 });
 
 Route::get('/contato', function () {
-    return "Contato";
+    return "Contato de Clientes";
 });
