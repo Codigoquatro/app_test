@@ -24,3 +24,8 @@ Route::get('/home', function () {
 Route::get('/contato', function () {
     return "Contato de Clientes";
 });
+
+Route::get('/cliente', function () {
+    return "Clientes";
+});
+
